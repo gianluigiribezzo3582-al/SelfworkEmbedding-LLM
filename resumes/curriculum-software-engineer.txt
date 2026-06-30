@@ -1,0 +1,29 @@
+### LUCA FERRARI
+Senior Software Engineer - Web Applications
+Email: luca.ferrari@email.com
+Tel: +39 347 8565432
+Torino, Italia
+LinkedIn: linkedin.com/in/lucaferrari
+GitHub: github.com/lucaferrari
+
+### PROFILO PROFESSIONALE
+Senior Software Engineer con 10 anni di esperienza nello sviluppo di applicazioni web full-stack. Specializzato in architetture scalabili, microservizi e best practice di clean code. Esperienza nella guida tecnica di team di sviluppo e nella definizione di standard di qualità del codice.
+
+### ESPERIENZA PROFESSIONALE
+
+### Senior Software Engineer | WebTech Solutions | 2020 - Presente
+- Progettazione e sviluppo di applicazioni web in React e Node.js
+- Migrazione di un monolite verso un'architettura a microservizi
+- Mentoring di sviluppatori junior e code review
+- Implementazione di pipeline CI/CD con Docker e Kubernetes
+
+### Full Stack Developer | Digital Innovators | 2016 - 2020
+- Sviluppo di API REST con Python (Django/Flask) e Node.js
+- Implementazione di interfacce utente con React e TypeScript
+- Ottimizzazione delle performance del database PostgreSQL
+- Collaborazione in team Agile/Scrum
+
+### Junior Developer | StartUp Lab | 2014 - 2016
+- Sviluppo di funzionalità front-end con JavaScript e jQuery
+- Manutenzione e bug fixing di applicazioni esistenti
+- Partecipazione a sprint planning e daily stand-up
