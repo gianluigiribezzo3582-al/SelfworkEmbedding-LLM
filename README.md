@@ -2,8 +2,6 @@
 
 Esempio base di RAG (Retrieval-Augmented Generation): indicizza dei CV in ChromaDB usando gli embedding di OpenAI, recupera il candidato più pertinente rispetto a una domanda e usa un modello GPT per generare una risposta motivata.
 
-Lo script `SelfworkRAG.py` è la versione standalone della logica esplorata in `Esempio-RAG.ipynb`.
-
 ## Requisiti
 
 - Python 3.10+
@@ -42,7 +40,6 @@ Lo script `SelfworkRAG.py` è la versione standalone della logica esplorata in `
 
 - `SelfworkRAG.py` — script principale: ingestion dei CV, indicizzazione in ChromaDB, query semantica e generazione della risposta
 - `resumes/` — cartella con i CV di esempio in formato `.txt` (sezioni separate da intestazioni `### `)
-- `Esempio-RAG.ipynb` — notebook esplorativo da cui deriva lo script
 - `requirements.txt` — dipendenze Python del progetto
 
 ## Esecuzione
